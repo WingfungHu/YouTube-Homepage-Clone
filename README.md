@@ -25,4 +25,4 @@ git clone https://github.com/WingfungHu/YouTube-Homepage-Clone.git
 
 ## Access
 
-URL: https://wingfunghu.github.io/YouTube-Homepage-Clone/youtube.html
+URL: https://wingfunghu.github.io/YouTube-Homepage-Clone/
