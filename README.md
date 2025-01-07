@@ -22,3 +22,8 @@ This project is a clone of the YouTube homepage using **HTML** and **CSS**. It i
 ### Clone the repository:
 
 git clone https://github.com/WingfungHu/YouTube-Homepage-Clone.git
+
+## Access
+
+Website has already been deployed for use.
+URL: https://wingfunghu.github.io/YouTube-Homepage-Clone/youtube.html
