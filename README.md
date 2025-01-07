@@ -6,7 +6,7 @@ This project is a clone of the YouTube homepage using **HTML** and **CSS**. It i
 
 - A **header** with logo, search box, and icons.
 - **Video thumbnail sections** similar to YouTube's homepage, displaying video recommendations and short statistics.
-- **Sidebar** with links for popular categories and channels.
+- **Sidebar** with icons for specific navigation options.
 - **Responsive design** that adjusts to different screen sizes.
 - **Tooltips** that displays a short description when icons are being hovered.
 
